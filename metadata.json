@@ -1,0 +1,8 @@
+{
+  "name": "Civil Engineer's AR Toolkit",
+  "description": "An all-in-one toolkit for civil engineers, utilizing your phone's sensors for measurements like angle and GPS location, and an AR ruler for quick estimations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
